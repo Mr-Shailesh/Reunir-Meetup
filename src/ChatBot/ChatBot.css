@@ -1,0 +1,14 @@
+.bot {
+    bottom: 0;
+    right : 0;
+    position: fixed;
+    width: 350px;
+}
+
+.btn {
+    font-size: 15px;
+    float: right;
+    width: 40%;
+    padding: 8px;
+    background-color: #77002e
+}
